@@ -2,7 +2,7 @@
 stanCode Breakout Project
 Adapted from Eric Roberts's Breakout by Sonja Johnson-Yu, Kylie Jue, Nick Bowman,and Jerry Liao
 -------------------
-File: my_drawing.py
+File: breakoutgraphics_ext_FallDown_new.py
 Name: Yuzu
 Description: I have created 3 types of game. Have fun and enjoy it!
 -------------------
