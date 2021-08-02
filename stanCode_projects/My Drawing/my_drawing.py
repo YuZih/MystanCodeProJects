@@ -2,7 +2,6 @@
 File: my_drawing.py
 Name: Yuzu
 ----------------------
-TODO:
 """
 
 from campy.graphics.gobjects import GRect, GPolygon, GLabel
