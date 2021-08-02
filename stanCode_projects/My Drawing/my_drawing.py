@@ -1,7 +1,9 @@
 """
+-------------------
 File: my_drawing.py
 Name: Yuzu
-----------------------
+Description: I have made a cute video with campy!
+-------------------
 """
 
 from campy.graphics.gobjects import GRect, GPolygon, GLabel
