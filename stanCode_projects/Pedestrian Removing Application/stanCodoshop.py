@@ -1,13 +1,11 @@
 """
-File: stanCodoshop.py
-----------------------------------------------
 SC101_Assignment3
-Adapted from Nick Parlante's
-Ghost assignment by Jerry Liao.
-
------------------------------------------------
-
-TODO:
+Adapted from Nick Parlante's Ghost assignment by Jerry Liao.
+-------------------
+File: stanCodoshop.py
+Name: Yuzu
+Description: I have written a photoshop code!
+-------------------
 """
 
 import os
