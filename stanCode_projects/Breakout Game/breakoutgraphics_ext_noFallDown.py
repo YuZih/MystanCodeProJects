@@ -1,10 +1,11 @@
 """
 stanCode Breakout Project
-Adapted from Eric Roberts's Breakout by
-Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
-and Jerry Liao
-
-I have created 3 types of game. Have fun and enjoy it!
+Adapted from Eric Roberts's Breakout by Sonja Johnson-Yu, Kylie Jue, Nick Bowman, and Jerry Liao
+-------------------
+File: breakoutgraphics_ext_noFallDown.py
+Name: Yuzu
+Description: I have created 3 types of game. Have fun and enjoy it!
+-------------------
 """
 from campy.graphics.gwindow import GWindow
 from campy.graphics.gobjects import GOval, GRect, GLabel, GPolygon
