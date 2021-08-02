@@ -2,6 +2,11 @@
 SC101 Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by Jerry Liao.
 Name: Yuzu
+-------------------
+File: babygraphics.py
+Name: Yuzu
+Description: I have written a name popularity searching system!
+-------------------
 """
 
 import tkinter
